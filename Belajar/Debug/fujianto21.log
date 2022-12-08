@@ -1,0 +1,158 @@
+﻿Build started 2022-11-09 오전 9:38:43.
+     1>Project "D:\Belajar\fujianto21 - Copy\fujianto21.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\fujianto21.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\fujianto21.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "01 - if else.cpp" "02 - struct siswa - input output.cpp" "02 - struct siswa - main.cpp" "02 - struct siswa - output only.cpp" "03  - transaksi.cpp" "04 - if else huruf.cpp" "05 - looping forever.cpp" fujianto21.cpp
+         fujianto21.cpp
+     1>d:\belajar\fujianto21 - copy\fujianto21.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\fujianto21.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\fujianto21.cpp(37): warning C4102: 'menu' : unreferenced label
+         05 - looping forever.cpp
+     1>d:\belajar\fujianto21 - copy\05 - looping forever.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\05 - looping forever.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\05 - looping forever.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+         04 - if else huruf.cpp
+     1>d:\belajar\fujianto21 - copy\04 - if else huruf.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\04 - if else huruf.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+         03  - transaksi.cpp
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(15): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(21): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(27): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(33): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(39): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(45): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(55): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(56): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(61): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(62): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(67): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(68): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(73): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(74): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(79): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(80): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(85): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(86): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(94): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(98): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(102): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(144): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(144): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(146): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(146): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\03  - transaksi.cpp(159): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         02 - struct siswa - output only.cpp
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(25): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(62): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(68): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(115): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(132): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - output only.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+         02 - struct siswa - main.cpp
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - main.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - main.cpp(9): warning C4102: 'menu_siswa' : unreferenced label
+         02 - struct siswa - input output.cpp
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(25): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(61): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(67): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(110): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\belajar\fujianto21 - copy\02 - struct siswa - input output.cpp(138): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+         01 - if else.cpp
+     1>d:\belajar\fujianto21 - copy\01 - if else.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\belajar\fujianto21 - copy\01 - if else.cpp(103): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\fujianto21.exe.embed.manifest.res" Debug\fujianto21_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fujianto21.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.lib" /MACHINE:X86 Debug\fujianto21.exe.embed.manifest.res
+         "Debug\01 - if else.obj"
+         "Debug\02 - struct siswa - input output.obj"
+         "Debug\02 - struct siswa - main.obj"
+         "Debug\02 - struct siswa - output only.obj"
+         "Debug\03  - transaksi.obj"
+         "Debug\04 - if else huruf.obj"
+         "Debug\05 - looping forever.obj"
+         Debug\fujianto21.obj
+       Manifest:
+         Deleting file "Debug\fujianto21.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\fujianto21.exe.embed.manifest" /manifest Debug\fujianto21.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\fujianto21.exe.embed.manifest.res" Debug\fujianto21_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fujianto21.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Belajar\fujianto21 - Copy\Debug\fujianto21.lib" /MACHINE:X86 Debug\fujianto21.exe.embed.manifest.res
+         "Debug\01 - if else.obj"
+         "Debug\02 - struct siswa - input output.obj"
+         "Debug\02 - struct siswa - main.obj"
+         "Debug\02 - struct siswa - output only.obj"
+         "Debug\03  - transaksi.obj"
+         "Debug\04 - if else huruf.obj"
+         "Debug\05 - looping forever.obj"
+         Debug\fujianto21.obj
+         fujianto21.vcxproj -> D:\Belajar\fujianto21 - Copy\Debug\fujianto21.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\fujianto21.unsuccessfulbuild".
+         Touching "Debug\fujianto21.lastbuildstate".
+     1>Done Building Project "D:\Belajar\fujianto21 - Copy\fujianto21.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.68
